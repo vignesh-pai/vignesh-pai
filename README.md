@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pai-vignesh.pai-vignesh" alt="pai-vignesh">    
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vignesh-pai.vignesh-pai" alt="vignesh-pai">    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+pai-vignesh;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<a href="https://github.com/pai-vignesh/">
+<a href="https://github.com/vignesh-pai/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai-vignesh&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
@@ -55,7 +55,7 @@
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/pai-vignesh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pai-vignesh?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/vignesh-pai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pai-vignesh?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 <!--Footer--> 
 <p align="center">
