@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/vignesh-pai/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai-vignesh&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-pai&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
 
