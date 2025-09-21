@@ -55,7 +55,7 @@
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/vignesh-pai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pai-vignesh?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/vignesh-pai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/vignesh-pai?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 <!--Footer--> 
 <p align="center">
